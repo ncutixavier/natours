@@ -1,0 +1,20 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Tours Project Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncutixavier/natours.git"
+  },
+  "author": "ncutixavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncutixavier/natours/issues"
+  },
+  "homepage": "https://github.com/ncutixavier/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.
